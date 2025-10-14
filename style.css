@@ -1,1 +1,42 @@
 
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    display: flex; /* Use flexbox for easy alignment */
+    justify-content: space-between; /* Space out items */
+    align-items: center; /* Vertically center items */
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    margin: 0;
+    margin-right: 20px; /* Space between title and buttons */
+}
+
+.header-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    margin-left: 10px; /* Space between buttons */
+    border-radius: 5px;
+    cursor: pointer;
+}
+.header-button {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    margin-left: 10px; /* Space between buttons */
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.header-button:hover {
+    background-color: #0056b3;
+}
