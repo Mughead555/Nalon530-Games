@@ -3,9 +3,9 @@ header {
     background-color: #333;
     color: white;
     padding: 10px 20px;
-    display: flex; /* Use flexbox for easy alignment */
-    justify-content: space-between; /* Space out items */
-    align-items: center; /* Vertically center items */
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
 }
 
 nav {
@@ -15,7 +15,7 @@ nav {
 
 h1 {
     margin: 0;
-    margin-right: 20px; /* Space between title and buttons */
+    margin-right: 20px;
 }
 
 .header-button {
@@ -23,16 +23,16 @@ h1 {
     color: white;
     border: none;
     padding: 8px 15px;
-    margin-left: 10px; /* Space between buttons */
+    margin-left: 10px;
     border-radius: 5px;
     cursor: pointer;
 }
-.header-button {
-    background-color: #0056b3;
+.header-button-pressed {
+    background-color: #000000;
     color: white;
     border: none;
     padding: 8px 15px;
-    margin-left: 10px; /* Space between buttons */
+    margin-left: 10px;
     border-radius: 5px;
     cursor: pointer;
 }
