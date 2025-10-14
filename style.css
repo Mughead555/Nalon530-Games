@@ -41,7 +41,7 @@ a:active {
     border-radius: 5px;
     cursor: pointer;
 }
-.button-class {
+.button-class-current {
     background-color: #6F2DA8;
     color: white;
     border: none;
