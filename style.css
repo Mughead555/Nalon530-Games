@@ -47,3 +47,15 @@ a:active {
 .button-class:hover {
     background-color: #0056b3;
 }
+#HomePageColor {
+    background-color: #B6B6B6;
+}
+#GamePageColor {
+    background-color: #FF5252;
+}
+#UpcomingPageColor {
+    background-color: #8FFF8F;
+}
+#AboutPageColor {
+    background-color: #DBFBFF;
+}
