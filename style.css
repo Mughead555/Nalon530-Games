@@ -7,9 +7,6 @@ header {
     justify-content: space-between; 
     align-items: center;
 }
-h4 {
-    font-weight: normal;
-}
 nav {
     display: flex;
     align-items: center;
